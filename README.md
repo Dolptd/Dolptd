@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm DADDYDOLLY <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
 <h3 align="center">DOLLY LOVE MEOW MEOW</h3>
 
-- 👩‍💻 I’m currently learning **Com-Sci**
+- 👩‍💻 I’m currently learning in : **Com-Sci** department
 
-- 📫 How to reach me **dolly@gmail.com**
+- 📫 How to reach me : **dolly@gmail.com**
 
-- 😂 Fun fact **DOLLY DON'T LIKE SPICY FOOD BUT LIKE SPICY GURLL**
+- 😂 Fun fact : **DOLLY DON'T LIKE SPICY FOOD BUT LIKE SPICY GURLL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
