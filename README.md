@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PATTHADOL DOLLY , DADDYDOLLY <image src = "https://cdn-icons-png.flaticon.com/512/763/763704.png" target = "iconprofile" width = "30" height = "30"</h1>
-<h3 align="center">sometimes coding somtimes drawing</h3>
+<h3 align="center">I am D O L L Y !!!</h3>
 
 - 📫 How to reach me **dooly@gmail.com**
 
