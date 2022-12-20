@@ -18,4 +18,4 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       
-    <p><img align="center" width = "600px"src="https://github-readme-streak-stats.herokuapp.com/?user=dolptd&" alt="dolptd" />  </p>
+    <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=dolptd&" alt="dolptd" />  </p>
