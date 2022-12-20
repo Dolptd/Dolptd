@@ -8,7 +8,7 @@
 - 😂 Fun fact : **DOLLY DON'T LIKE SPICY FOOD BUT LIKE SPICY GURLL**
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/82/4d/79/824d79c3b5a8810146ddd511a823f680.gif" width ="500px" height="300px"/>
+  <img src="https://i.pinimg.com/originals/82/4d/79/824d79c3b5a8810146ddd511a823f680.gif" width ="1000px" height="300px"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
