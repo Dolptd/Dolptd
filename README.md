@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DADDYDOLLY <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
+<h1 align="center">Hi 👋, I'm Dol <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
 <h3 align="center">DOLLY LOVE MEOW MEOW</h3>
 
 <div id="header" align="center">
