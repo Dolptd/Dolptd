@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dol <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
-<h3 align="center">DOLLY/h3>
+<h1 align="center">Hi 👋, I'm Patthadol Raksapram <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
+<h3 align="center">Nick : Dolly/h3>
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/82/4d/79/824d79c3b5a8810146ddd511a823f680.gif" width ="1000" height="400"/>
@@ -7,9 +7,9 @@
 
 ---
 
-- 👩‍💻 I’m currently learning in : **Com-Sci** department
+- 👩‍💻 I’m currently learning in : **Computer Science** department | School of Information Technology
 
-- 📫 How to reach me : **dolly@gmail.com**
+- 📫 How to reach me : **patthadol43@gmail.com**
 
 - 😂 Fun fact : **DOLLY DON'T LIKE SPICY FOOD**
 
