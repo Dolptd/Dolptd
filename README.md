@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patthadol Raksapram <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
-<h3 align="center">Nick : Dolly/h3>
+<h3 align="center">Nick : Dolly /h3>
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/82/4d/79/824d79c3b5a8810146ddd511a823f680.gif" width ="1000" height="400"/>
