@@ -9,9 +9,9 @@
 
 - 👩‍💻 I’m currently learning in : **Computer Science** department | School of Information Technology
 
-- 📫 How to reach me : **patthadol43@gmail.com**
+- 📫 How to reach me: **patthadol43@gmail.com**
 
-- 😂 Fun fact : **DOLLY DON'T LIKE SPICY FOOD**
+- 😂 Fun fact : **DOLLY DOESN'T LIKE SPICY FOOD**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
